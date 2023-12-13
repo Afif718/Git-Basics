@@ -1,0 +1,10 @@
+# Create Reposity and Push 
+--> git remote add origin repoLink
+--> git branch -M main
+--> git push -u origin main
+
+# To Update
+--> git add fileName / git add .
+--> git commit -m "Commit Messages"
+--> git pull 
+--> git push origin main
